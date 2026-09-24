@@ -16,4 +16,3 @@ def main():
     CalcularMaior()
 
 main()
-print("carlos")
