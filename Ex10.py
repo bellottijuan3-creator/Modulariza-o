@@ -10,8 +10,6 @@ def main():
     voltas = int(input("Digite o numero de voltas: "))
     extensao = float(input("Digite a extensao do circuito em metros: "))
     tempo = float(input("Digite o tempo de duracao em minutos: "))
-    
-    # Passando as variaveis locais como parametros para o procedimento
     calcular_velocidade(voltas, extensao, tempo)
 
 main()
